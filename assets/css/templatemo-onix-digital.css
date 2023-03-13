@@ -1034,13 +1034,13 @@ Services Style
 }
 
 .our-services .item .icon {
-  width: 45px;
-  height: 45px;
+  width: 300px;
+  height: 300px;
   margin: 0 auto;
 }
 
 .our-services .item p {
-  margin-top: 35px;
+  margin-top: -95px;
   padding-top: 30px;
   border-top: 1px solid #eee;
 }
